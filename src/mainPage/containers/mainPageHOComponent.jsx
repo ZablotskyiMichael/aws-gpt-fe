@@ -71,7 +71,7 @@ class HOC extends React.Component {
             type="text"
             value={inputText}
             onChange={this.handleChange}
-            placeholder="Введіть запит"
+            placeholder="Введіть запит..."
             style={{
               padding: '10px',
               width: '300px',
